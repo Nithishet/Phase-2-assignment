@@ -1,9 +1,0 @@
-com\servlets\ForgotPassword.class
-org\simplilearn\workshop\util\StringUtil.class
-com\database\Dao.class
-com\servlets\UserLogin.class
-com\servlets\Logout.class
-com\servlets\InsertFlight.class
-com\servlets\UserRegistration.class
-com\servlets\AdminLogin.class
-com\servlets\FlightList.class
